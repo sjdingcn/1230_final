@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file alias="default.frag">shaders/shader.frag</file>
+        <file alias="default.vert">shaders/shader.vert</file>
+        <file alias="shadow.frag">shaders/shadow.frag</file>
+        <file alias="shadow.vert">shaders/shadow.vert</file>
+        <file alias="shadowMap.frag">shaders/shadowMap.frag</file>
+        <file alias="shadowMap.vert">shaders/shadowMap.vert</file>
+        <file alias="phong.frag">shaders/phong.frag</file>
+        <file alias="phong.vert">shaders/phong.vert</file>
+        <file alias="godray.frag">shaders/godray.frag</file>
+        <file alias="godray.vert">shaders/godray.vert</file>
+        <file alias="water.frag">shaders/water.frag</file>
+        <file alias="water.vert">shaders/water.vert</file>
+        <file alias="normals.frag">shaders/normals/normals.frag</file>
+        <file alias="normals.gsh">shaders/normals/normals.gsh</file>
+        <file alias="normals.vert">shaders/normals/normals.vert</file>
+        <file alias="normalsArrow.frag">shaders/normals/normalsArrow.frag</file>
+        <file alias="normalsArrow.gsh">shaders/normals/normalsArrow.gsh</file>
+        <file alias="normalsArrow.vert">shaders/normals/normalsArrow.vert</file>
+        <file alias="quad.vert">shaders/quad.vert</file>
+        <file alias="hdr.frag">shaders/hdr.frag</file>
+        <file alias="foggy.frag">shaders/foggy.frag</file>
+        <file alias="identity.frag">shaders/identity.frag</file>
+        <file alias="pattern.frag">shaders/pattern.frag</file>
+        <file alias="pattern.vert">shaders/pattern.vert</file>
+    </qresource>
+    <qresource prefix="/scenes">
+        <file alias="undersea.xml">scenes/undersea.xml</file>
+        <file alias="fish.obj">scenes/12265_Fish_v1_L2.obj</file>
+    </qresource>
+</RCC>

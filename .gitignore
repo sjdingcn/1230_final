@@ -1,0 +1,9 @@
+.DS_Store
+final.pro.user
+Makefile*
+ui_*
+qrc_resources.cpp
+.qmake.stash
+*.Debug
+*.Release
+debug/*
